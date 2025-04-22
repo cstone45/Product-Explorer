@@ -1,3 +1,11 @@
+/*
+App: Aircraft Viewer
+Features:
+ - Displays a list of aircraft
+  - Allows users to select an aircraft to view details
+Components: PlaneCard, Not Interested Button
+External API: https://rapidapi.com/adsbx/api/adsbx-flight-sim-traffic
+*/
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
